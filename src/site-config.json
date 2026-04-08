@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "KC Roofers",
+    "phone": "+18165177379",
+    "category": "roofer",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "KC's Trusted Roofing Experts",
+      "heroSubline": "Protecting Kansas City homes from harsh weather for over a decade. Reliable roofing solutions, guaranteed.",
+      "aboutTitle": "Built on Integrity, Roofed in Quality",
+      "aboutText": [
+        "KC Roofers started with a simple mission: to provide honest and reliable roofing services to our neighbors in Kansas City. We saw too many homeowners getting shortchanged, so we committed to doing things the right way, every time.",
+        "We're not just roofers; we're problem solvers. We assess every roof with a keen eye, considering the unique challenges of Kansas City's climate – from ice storms to scorching summers – to recommend the best and most cost-effective solutions.",
+        "Our commitment extends beyond roofing. We're dedicated to giving back to the community that supports us. We partner with local organizations to provide roofing assistance to those in need."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Kansas City weather patterns and housing styles."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We source durable, weather-resistant materials built to last."
+        },
+        {
+          "title": "Skilled Craftsmanship",
+          "description": "Experienced roofers dedicated to precision and lasting results."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear, upfront quotes with no hidden fees or surprises."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation roofing inspection from KC's leading roofing professionals."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast, reliable roof repairs to protect your Kansas City home.",
+        "description": "From minor leaks to storm damage, KC Roofers provides comprehensive roof repair services. We understand the urgency of addressing roof issues promptly, especially with Kansas City's unpredictable weather. Our experienced team quickly identifies the source of the problem and implements effective, lasting repairs. We handle all types of roofing materials, including asphalt shingles, tile, and metal. Whether it's patching a leak, replacing damaged shingles after a severe thunderstorm, or repairing damage from a fallen tree, we're equipped to handle any roof repair efficiently and effectively. We carefully inspect the entire roof structure to identify any underlying issues that may cause future problems. We provide a detailed report of our findings and recommend the best course of action to ensure the long-term integrity of your roof. We prioritize quality workmanship and use premium materials to ensure that our repairs withstand the harsh Kansas City climate, including ice, wind, and extreme temperature fluctuations. We work quickly and efficiently to minimize disruption to your home and family, and we always clean up thoroughly after completing the job. Trust KC Roofers for all your roof repair needs and experience the difference of working with a team that puts your satisfaction first.",
+        "process": [
+          "Step 1: Thorough roof inspection and damage assessment",
+          "Step 2: Detailed repair estimate with transparent pricing",
+          "Step 3: Prompt and efficient repair execution using quality materials",
+          "Step 4: Final inspection to ensure lasting repair and customer satisfaction"
+        ],
+        "benefits": [
+          "Leak prevention",
+          "Extended roof lifespan",
+          "Protection from weather damage",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof leak?",
+            "answer": "We prioritize emergency roof repairs and strive to respond within 24 hours. Our team is equipped to handle urgent situations and prevent further damage to your home."
+          },
+          {
+            "question": "Do you offer a warranty on your roof repairs?",
+            "answer": "Yes, we stand behind our work and offer a comprehensive warranty on all roof repairs. The specific warranty terms vary depending on the type of repair and materials used."
+          },
+          {
+            "question": "Will you match my existing shingles for repairs?",
+            "answer": "We make every effort to match your existing shingles as closely as possible. We have access to a wide range of shingle colors and styles and will work to find a suitable match for your roof."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Upgrade your home with a durable, long-lasting roof replacement.",
+        "description": "Is your roof nearing the end of its lifespan? KC Roofers offers expert roof replacement services to safeguard your home for years to come. We understand that replacing a roof is a significant investment, and we're committed to making the process as smooth and stress-free as possible. We start with a comprehensive evaluation of your existing roof to determine the best replacement options based on your budget, aesthetic preferences, and the specific needs of your home. We offer a wide selection of roofing materials, including asphalt shingles, tile, metal, and more, each with its own unique benefits and characteristics. Our experienced team handles every aspect of the roof replacement process, from removing the old roof to installing the new one with precision and care. We ensure that all work is performed to the highest standards of quality and safety, and we adhere to all local building codes and regulations. We understand the importance of protecting your property during the roof replacement process, and we take every precaution to minimize disruption to your daily life. We use protective tarps to cover your landscaping and outdoor furniture, and we clean up thoroughly after completing the job. With a new roof from KC Roofers, you can rest assured that your home is protected from the elements for years to come. We offer industry-leading warranties on our materials and workmanship, providing you with added peace of mind.",
+        "process": [
+          "Step 1: Thorough roof inspection and material selection",
+          "Step 2: Removal of old roofing and underlayment",
+          "Step 3: Installation of new roofing system with precision",
+          "Step 4: Final inspection and cleanup for a flawless finish"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Long-term protection"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the roof, as well as the weather conditions. Typically it takes 1-3 days."
+          },
+          {
+            "question": "Do I need to be home during the roof replacement?",
+            "answer": "You do not need to be home during the roof replacement. But, we will need access to the property. We will keep you updated on our progress."
+          },
+          {
+            "question": "What type of roofing material is best for my home?",
+            "answer": "The best roofing material for your home depends on several factors, including your budget, aesthetic preferences, and the architectural style of your house. We offer a variety of roofing materials to choose from, and we can help you select the one that's right for you."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspection",
+        "name": "Roof Inspection",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems early.",
+        "description": "Protect your investment with a professional roof inspection from KC Roofers. Regular roof inspections are crucial for identifying potential problems early, preventing costly repairs down the road. Our certified inspectors conduct thorough assessments of your roof, looking for signs of damage, wear and tear, and other issues that could compromise its integrity. We examine all aspects of your roof, including the shingles, flashing, gutters, and ventilation system. We use advanced tools and techniques to detect hidden problems that may not be visible to the naked eye. Our detailed inspection reports provide you with a clear understanding of the condition of your roof, along with recommendations for any necessary repairs or maintenance. We can identify potential leaks, damaged shingles, improper ventilation, and other problems that could lead to water damage, structural issues, and energy loss. Whether you're buying a new home, selling your current home, or simply want to ensure the long-term health of your roof, a roof inspection from KC Roofers is a smart investment. We offer flexible scheduling options and competitive pricing, making it easy to get the peace of mind you deserve. Don't wait until a small problem becomes a big headache. Schedule a roof inspection with KC Roofers today and protect your home from the elements.",
+        "process": [
+          "Step 1: Schedule a convenient inspection appointment",
+          "Step 2: Thorough visual inspection of all roof components",
+          "Step 3: Detailed report with findings and recommendations",
+          "Step 4: Expert consultation to discuss repair/maintenance options"
+        ],
+        "benefits": [
+          "Early problem detection",
+          "Preventative maintenance",
+          "Extended roof lifespan",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, preferably in the spring or fall. Regular inspections can help identify potential problems early before they become serious."
+          },
+          {
+            "question": "What is included in a roof inspection?",
+            "answer": "A roof inspection includes a thorough visual examination of all roof components, including the shingles, flashing, gutters, and ventilation system."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "The cost of a roof inspection varies depending on the size and complexity of the roof. Contact us today for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Keep your home protected with professional gutter cleaning and repair.",
+        "description": "Don't underestimate the importance of properly functioning gutters. KC Roofers provides comprehensive gutter services to keep your home protected from water damage. Clogged or damaged gutters can lead to a host of problems, including foundation damage, basement flooding, and wood rot. Our experienced team offers a range of gutter services, including cleaning, repair, and replacement. We thoroughly clean your gutters, removing leaves, debris, and other obstructions that can cause them to clog. We also inspect your gutters for signs of damage, such as leaks, cracks, and sagging. If your gutters are damaged beyond repair, we can replace them with high-quality seamless gutters that are custom-fit to your home. Seamless gutters offer superior performance and durability, and they are less prone to leaks and clogs. We offer a variety of gutter materials and colors to choose from, so you can find the perfect match for your home's style. Proper gutter maintenance is essential for protecting your home from water damage, especially in Kansas City's wet climate. Let KC Roofers keep your gutters clean and functioning properly, so you can rest assured that your home is protected. Contact us today to schedule a gutter cleaning or repair service.",
+        "process": [
+          "Step 1: Gutter inspection to assess condition and identify issues",
+          "Step 2: Thorough cleaning to remove debris and obstructions",
+          "Step 3: Repair or replacement of damaged gutter sections",
+          "Step 4: Final inspection to ensure proper drainage and functionality"
+        ],
+        "benefits": [
+          "Prevent water damage",
+          "Protect foundation",
+          "Prevent basement flooding",
+          "Extend roof lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall. If you have trees near your home, you may need to clean them more often."
+          },
+          {
+            "question": "What are the signs that my gutters need repair?",
+            "answer": "Signs that your gutters need repair include leaks, cracks, sagging, and overflowing water."
+          },
+          {
+            "question": "What are seamless gutters?",
+            "answer": "Seamless gutters are custom-made gutters that are installed in one continuous piece, eliminating seams and reducing the risk of leaks."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Fast and reliable storm damage repair services in Kansas City.",
+        "description": "Kansas City is no stranger to severe weather. When storms strike, KC Roofers is here to help you recover quickly. We provide comprehensive storm damage repair services to restore your home to its pre-storm condition. Our experienced team handles all types of storm damage, including wind damage, hail damage, and water damage. We work quickly and efficiently to assess the damage, develop a repair plan, and get your repairs underway. We understand the urgency of addressing storm damage promptly to prevent further problems. We can tarp your roof to prevent leaks, remove debris, and secure your property. We work with all major insurance companies to streamline the claims process and minimize your out-of-pocket expenses. Our goal is to make the storm damage repair process as smooth and stress-free as possible. We use high-quality materials and proven techniques to ensure that your repairs are durable and long-lasting. Whether your roof has been damaged by wind, hail, or a fallen tree, KC Roofers is here to help. We're committed to providing fast, reliable, and affordable storm damage repair services to homeowners in Kansas City. Contact us today for a free inspection and estimate.",
+        "process": [
+          "Step 1: Emergency roof tarping to prevent further damage",
+          "Step 2: Thorough damage assessment and documentation",
+          "Step 3: Insurance claim assistance and coordination",
+          "Step 4: Expert repair and restoration services"
+        ],
+        "benefits": [
+          "Fast response time",
+          "Insurance claim assistance",
+          "Quality repairs",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What should I do immediately after my roof is damaged in a storm?",
+            "answer": "The first thing you should do is ensure your safety and the safety of your family. Then, contact KC Roofers to tarp your roof and prevent further damage."
+          },
+          {
+            "question": "How long do I have to file an insurance claim for storm damage?",
+            "answer": "The time limit for filing an insurance claim varies depending on your insurance policy. It's important to file your claim as soon as possible after the storm."
+          },
+          {
+            "question": "Will filing a claim raise my insurance rates?",
+            "answer": "Whether or not filing a claim will raise your insurance rates depends on your insurance policy and the circumstances of the claim."
+          }
+        ]
+      },
+      {
+        "slug": "attic-ventilation",
+        "name": "Attic Ventilation",
+        "shortDescription": "Improve your home's energy efficiency with proper attic ventilation.",
+        "description": "Proper attic ventilation is essential for maintaining a healthy and energy-efficient home. KC Roofers provides expert attic ventilation services to improve your home's comfort, reduce energy costs, and extend the lifespan of your roof. Poor attic ventilation can lead to a number of problems, including moisture buildup, mold growth, and excessive heat in the summer. This can cause damage to your roof, insulation, and other building materials, and it can also increase your energy bills. Our experienced team can assess your attic ventilation needs and recommend the best solutions for your home. We offer a variety of attic ventilation options, including ridge vents, soffit vents, and gable vents. Ridge vents are installed along the peak of your roof and allow hot, moist air to escape from the attic. Soffit vents are installed under the eaves of your roof and allow cool, fresh air to enter the attic. Gable vents are installed in the gable ends of your attic and provide additional ventilation. Proper attic ventilation helps to regulate the temperature and humidity in your attic, preventing moisture buildup and reducing the risk of mold growth. It also helps to keep your home cooler in the summer and warmer in the winter, reducing your energy costs. With proper attic ventilation from KC Roofers, you can improve your home's comfort, energy efficiency, and overall health. Contact us today for a free consultation.",
+        "process": [
+          "Step 1: Attic inspection to assess ventilation needs",
+          "Step 2: Ventilation system design and selection",
+          "Step 3: Professional installation of ventilation components",
+          "Step 4: Final inspection to ensure optimal airflow"
+        ],
+        "benefits": [
+          "Reduced energy costs",
+          "Improved home comfort",
+          "Extended roof lifespan",
+          "Prevention of mold and mildew"
+        ],
+        "faq": [
+          {
+            "question": "Why is attic ventilation important?",
+            "answer": "Attic ventilation helps to regulate the temperature and humidity in your attic, preventing moisture buildup and reducing the risk of mold growth."
+          },
+          {
+            "question": "What are the different types of attic vents?",
+            "answer": "The different types of attic vents include ridge vents, soffit vents, and gable vents."
+          },
+          {
+            "question": "How can I tell if my attic is properly ventilated?",
+            "answer": "Signs that your attic is not properly ventilated include moisture buildup, mold growth, and excessive heat in the summer."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "KC Roofers is proud to provide top-quality roofing services to Overland Park, MO. Known for its established suburbs built primarily in the 1970s through 1990s, Overland Park boasts a unique blend of mature neighborhoods and modern amenities. We understand the specific roofing needs of homes in this area, from addressing aging roofs to protecting against the harsh Kansas City weather. \n\nOur team is experienced in handling a variety of roofing materials and styles common in Overland Park, ensuring that your roof is not only functional but also complements the aesthetic of your home. We're committed to providing reliable and efficient service, whether you need a minor repair or a complete roof replacement. We also understand the climate challenges, especially the cold winters and ice storms that can wreak havoc on roofs. \n\nKC Roofers is dedicated to serving the Overland Park community with integrity and professionalism. We offer free inspections and estimates, so you can make informed decisions about your roofing needs.",
+        "localContext": "Overland Park features established suburban neighborhoods developed mainly from the 1970s to 1990s and experiences cold winters with frequent ice storms.",
+        "nearbyAreas": [
+          "Leawood",
+          "Prairie Village",
+          "Lenexa"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "KC Roofers is your trusted roofing partner in Olathe, MO. Characterized by family-friendly developments built primarily from the 1980s through the 2000s, Olathe presents unique roofing challenges and opportunities. We are well-versed in the common roofing types found in these newer homes, and we offer a comprehensive range of services to keep your roof in optimal condition. \n\nFrom new roof installations to repairs and maintenance, our skilled team is equipped to handle any roofing project in Olathe. We use only the highest quality materials and employ industry-leading techniques to ensure lasting results. We also understand the impact of the Kansas City climate, particularly the cold winters and ice storms, on roofing systems and can provide solutions to mitigate potential damage. \n\nKC Roofers is committed to providing exceptional customer service and building long-term relationships with our clients in Olathe. Contact us today for a free consultation and let us help you protect your home with a reliable and durable roof.",
+        "localContext": "Olathe is characterized by family-oriented developments built in the 1980s-2000s and faces cold winters with ice storm risks.",
+        "nearbyAreas": [
+          "Gardner",
+          "Lenexa",
+          "De Soto"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "KC Roofers proudly serves Lee's Summit, MO, providing expert roofing solutions to homeowners throughout the area. Known for its established family homes built primarily in the 1970s through 1990s, Lee's Summit presents a diverse range of roofing styles and needs. We have extensive experience working on homes of all ages and designs in Lee's Summit, ensuring that your roof is both aesthetically pleasing and structurally sound. \n\nOur services include roof repair, replacement, and maintenance, all performed with the highest level of craftsmanship and attention to detail. We understand the challenges posed by the Kansas City climate, including harsh winters with ice storms, and we offer roofing solutions that are specifically designed to withstand these conditions. \n\nKC Roofers is dedicated to providing exceptional service and building lasting relationships with our customers in Lee's Summit. We offer free inspections and estimates, so you can make informed decisions about your roofing needs. We are committed to protecting your home and family with a reliable and durable roof.",
+        "localContext": "Lee's Summit features family homes built in the 1970s-1990s and experiences cold winters with ice storm risks.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Grandview",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Kansas City",
+        "slug": "kansas-city-mo",
+        "state": "MO",
+        "content": "KC Roofers is proud to serve the heart of Kansas City, MO, providing top-notch roofing services to its diverse neighborhoods. From historic homes to modern constructions, we understand the unique roofing needs of Kansas City residents. Our team is equipped to handle any roofing project, big or small, with expertise and precision. \n\nWe offer a wide range of services, including roof repair, replacement, and maintenance. Whether you have a leaky roof, damaged shingles, or need a complete roof overhaul, KC Roofers is here to help. We use only the highest quality materials and employ industry-leading techniques to ensure lasting results. \n\nKC Roofers is committed to providing exceptional customer service and building long-term relationships with our clients in Kansas City. Contact us today for a free consultation and let us help you protect your home with a reliable and durable roof.",
+        "localContext": "Kansas City features a diverse range of housing styles and experiences a variable climate.",
+        "nearbyAreas": [
+          "Independence",
+          "Gladstone",
+          "North Kansas City"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "KC Roofers is dedicated to serving the community of Independence, MO with reliable and affordable roofing solutions. Independence is known for its historical significance and diverse housing stock, ranging from older homes to newer developments. We understand the specific roofing challenges and requirements of homes in Independence, ensuring that your roof is well-maintained and protected. \n\nOur team has extensive experience working on a variety of roofing materials and styles common in Independence, including asphalt shingles, tile, and metal roofing. We offer a comprehensive range of services, including roof repair, replacement, and maintenance. We also understand the impact of the Kansas City climate, particularly the cold winters and ice storms, on roofing systems and can provide solutions to mitigate potential damage. \n\nKC Roofers is committed to providing exceptional customer service and building long-term relationships with our clients in Independence. Contact us today for a free consultation and let us help you protect your home with a durable and reliable roof.",
+        "localContext": "Independence features a mix of historic homes and newer developments and experiences a typical Midwestern climate.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Raytown",
+          "Kansas City"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "KC Roofers is proud to offer our expert roofing services to the residents of Blue Springs, MO. This family-friendly city boasts a mix of established neighborhoods and newer developments, each with its own unique roofing characteristics. We understand the specific needs of Blue Springs homeowners and are committed to providing top-quality workmanship and exceptional customer service. \n\nOur services include roof repair, replacement, and maintenance, all performed with the highest level of craftsmanship and attention to detail. We use only the highest quality materials and employ industry-leading techniques to ensure lasting results. We also understand the challenges posed by the Kansas City climate, including harsh winters and severe storms, and we offer roofing solutions that are specifically designed to withstand these conditions. \n\nKC Roofers is dedicated to providing exceptional service and building lasting relationships with our customers in Blue Springs. We offer free inspections and estimates, so you can make informed decisions about your roofing needs. We are committed to protecting your home and family with a reliable and durable roof.",
+        "localContext": "Blue Springs features both older and newer residential areas and experiences a typical Midwestern climate with seasonal variations.",
+        "nearbyAreas": [
+          "Independence",
+          "Lee's Summit",
+          "Grain Valley"
+        ]
+      },
+      {
+        "city": "Raytown",
+        "slug": "raytown-mo",
+        "state": "MO",
+        "content": "KC Roofers is your trusted roofing expert in Raytown, MO. This community offers a range of housing styles and roofing needs, and we're here to provide reliable and affordable solutions. We understand the specific challenges that Raytown homeowners face, from aging roofs to weather-related damage. \n\nOur team is experienced in handling a variety of roofing materials and styles common in Raytown, ensuring that your roof is not only functional but also complements the aesthetic of your home. We're committed to providing reliable and efficient service, whether you need a minor repair or a complete roof replacement. We also understand the climate challenges, especially the cold winters and ice storms that can wreak havoc on roofs. \n\nKC Roofers is dedicated to serving the Raytown community with integrity and professionalism. We offer free inspections and estimates, so you can make informed decisions about your roofing needs.",
+        "localContext": "Raytown has a mix of housing styles and experiences a typical Midwestern climate.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Independence",
+          "Lee's Summit"
+        ]
+      },
+      {
+        "city": "Grandview",
+        "slug": "grandview-mo",
+        "state": "MO",
+        "content": "KC Roofers is proud to serve the community of Grandview, MO, providing high-quality roofing services at competitive prices. Grandview offers a mix of residential and commercial properties, each with unique roofing requirements. We are equipped to handle any roofing project in Grandview, from small repairs to complete replacements. \n\nOur team has extensive experience working on a variety of roofing materials and styles common in Grandview, including asphalt shingles, metal roofing, and flat roofs. We offer a comprehensive range of services, including roof repair, replacement, and maintenance. We also understand the impact of the Kansas City climate, particularly the cold winters and ice storms, on roofing systems and can provide solutions to mitigate potential damage. \n\nKC Roofers is committed to providing exceptional customer service and building long-term relationships with our clients in Grandview. Contact us today for a free consultation and let us help you protect your home or business with a durable and reliable roof.",
+        "localContext": "Grandview offers a mix of residential and commercial properties and experiences a typical Midwestern climate.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Lee's Summit",
+          "Belton"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "I had a major leak after that last ice storm. KC Roofers came out quickly and fixed it. Honest, reliable, and didn't try to upsell me. Highly recommended!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "We got a new roof from KC Roofers. The crew was professional, efficient, and cleaned up everything. The price was fair and the roof looks great!",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Gutter Services",
+        "text": "KC Roofers cleaned my gutters. They were overflowing and causing problems. They did a great job and the price was reasonable.",
+        "date": "2025-05-01"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "We were buying a house in Brookside and needed a roof inspection. KC Roofers was thorough and pointed out some potential issues. Helped us negotiate a better price!",
+        "date": "2025-06-10"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "Hail damage after that last big storm. KC Roofers helped me file my insurance claim. The repairs were done quickly and professionally.",
+        "date": "2025-07-05"
+      },
+      {
+        "name": "Mike S.",
+        "rating": 4,
+        "service": "Roof Repair",
+        "text": "Had some shingles blow off during a wind storm. KC Roofers came out and repaired the damage quickly. Only reason it's not 5 stars is the communication could have been a bit better.",
+        "date": "2025-08-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "KC Roofers | Kansas City Roofing",
+        "description": "Trusted roofing experts in Kansas City, MO. Repairs, replacements, inspections. Free estimates."
+      },
+      "about": {
+        "title": "About KC Roofers | Kansas City, MO",
+        "description": "Learn about KC Roofers, our values, and our commitment to quality roofing in Kansas City."
+      },
+      "services": {
+        "title": "KC Roofers Services | Kansas City, MO",
+        "description": "Comprehensive roofing services in Kansas City. Roof repair, replacement, inspections, and more."
+      },
+      "contact": {
+        "title": "Contact KC Roofers | Kansas City, MO",
+        "description": "Contact KC Roofers for a free estimate on your roofing project in Kansas City, MO."
+      },
+      "reviews": {
+        "title": "KC Roofers Reviews | Kansas City, MO",
+        "description": "Read what our customers are saying about KC Roofers in Kansas City, MO. Honest and reliable roofing services."
+      },
+      "service-areas": {
+        "title": "KC Roofers Service Areas | Kansas City",
+        "description": "KC Roofers provides roofing services throughout the Kansas City metro area. See our service area map."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-inspection": "/images/service-roof-inspection.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp",
+      "attic-ventilation": "/images/service-attic-ventilation.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspection": {
+        "src": "/images/service-roof-inspection.webp",
+        "srcset": "/images/service-roof-inspection-400w.webp 400w, /images/service-roof-inspection-800w.webp 800w, /images/service-roof-inspection-1200w.webp 1200w, /images/service-roof-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "attic-ventilation": {
+        "src": "/images/service-attic-ventilation.webp",
+        "srcset": "/images/service-attic-ventilation-400w.webp 400w, /images/service-attic-ventilation-800w.webp 800w, /images/service-attic-ventilation-1200w.webp 1200w, /images/service-attic-ventilation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
